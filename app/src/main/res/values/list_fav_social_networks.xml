@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="social_networks">
+        <item
+            >WhatsApp</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Instagram</item>
+    </string-array>
+
+    <string-array name="values_social_networks">
+        <item>whatsapp</item>
+        <item>facebook</item>
+        <item>twitter</item>
+        <item>instagram</item>
+    </string-array>
+
+</resources>
